@@ -25,7 +25,7 @@
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Nd8-a9-EUa">
                                 <rect key="frame" x="207" y="357" width="207" height="36"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="20"/>
-                                <state key="normal" title="RESET"/>
+                                <state key="normal" title="Stop"/>
                                 <connections>
                                     <action selector="resetTapped:" destination="BYZ-38-t0r" eventType="touchUpInside" id="ZWT-LK-NEY"/>
                                 </connections>
@@ -33,7 +33,7 @@
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="NAp-xO-A2G">
                                 <rect key="frame" x="0.0" y="357" width="207" height="36"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="20"/>
-                                <state key="normal" title="START"/>
+                                <state key="normal" title="Start"/>
                                 <connections>
                                     <action selector="startStopTapped:" destination="BYZ-38-t0r" eventType="touchUpInside" id="KKb-3Q-TPX"/>
                                 </connections>
